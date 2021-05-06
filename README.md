@@ -2,5 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas
 
-* Estrogonoff de frango
+* Estrogonoff de frango;
 * Pavê
